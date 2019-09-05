@@ -1,9 +1,23 @@
 html{
-  background-color: lightslategray;
+  background-color: #212F3C;
+  color :#F7F9F9;
+  font-family: 'Black Ops One', cursive;
 }
-.radio{
-  background-color: darkslategray;
+.radio h2{
+  text-align: center;
 }
-.Apple-Mac{
-  background-color:gray
+.Mac h2{
+  text-align: center;
+}
+header{
+  font-family: 'Black Ops One', cursive;
+  font-size: 30px;
+
+}
+.Earbud h2{
+  text-align: center;
+}
+
+.watch h2{
+  text-align: center;
 }
