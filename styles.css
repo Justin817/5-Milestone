@@ -1,11 +1,8 @@
 html{
-  background-image: url("giphy.gif");
+  background-color: slategray;
   color :#F7F9F9;
   font-family: 'Black Ops One', cursive;
   text-align: center;
-  background-attachment:fixed;
-  background-repeat:repeat;
-  background-size: cover;
 }
 .radio h2{
   text-align: center;
