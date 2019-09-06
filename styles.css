@@ -3,6 +3,12 @@ html{
   color :#F7F9F9;
   font-family: 'Black Ops One', cursive;
   text-align: center;
+<<<<<<< HEAD
+=======
+  background-attachment:fixed;
+  background-repeat:repeat;
+  background-size: contain;
+>>>>>>> b677ad93fa419f4cd64b28743cddefb6f2a0b6b3
 }
 .radio h2{
   text-align: center;
