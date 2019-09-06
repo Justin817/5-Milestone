@@ -1,7 +1,11 @@
 html{
-  background-color: #212F3C;
+  background-image: url("giphy.gif");
   color :#F7F9F9;
   font-family: 'Black Ops One', cursive;
+  text-align: center;
+  background-attachment:fixed;
+  background-repeat:space;
+  background-size: contain;
 }
 .radio h2{
   text-align: center;
@@ -19,5 +23,8 @@ header{
 }
 
 .watch h2{
+  text-align: center;
+}
+.Airplane h2{
   text-align: center;
 }
